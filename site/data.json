@@ -1997,6 +1997,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17440770522",
       "year": 2026
+    },
+    {
+      "date": "2026-02-19",
+      "hour": 20,
+      "name": "MyWhoosh - Bruges",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17454417671",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3656,6 +3665,15 @@
           "distance": 50103.3,
           "elevation_gain": 59.8,
           "moving_time": 5525.0
+        },
+        "2026-02-19": {
+          "activity_ids": [
+            "17454417671"
+          ],
+          "count": 1,
+          "distance": 33664.7,
+          "elevation_gain": 0.0,
+          "moving_time": 3620.0
         }
       },
       "Walk": {
@@ -3671,7 +3689,7 @@
       }
     }
   },
-  "generated_at": "2026-02-19T18:14:44.977587+00:00",
+  "generated_at": "2026-02-20T15:31:01.916106+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",
