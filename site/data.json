@@ -2015,6 +2015,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17462435800",
       "year": 2026
+    },
+    {
+      "date": "2026-02-21",
+      "hour": 18,
+      "name": "MyWhoosh - Bruges",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17475727870",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-22",
+      "hour": 9,
+      "name": "MyWhoosh - Hudayriyat Outer Loop",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17479825522",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3692,6 +3710,24 @@
           "distance": 33664.7,
           "elevation_gain": 0.0,
           "moving_time": 3620.0
+        },
+        "2026-02-21": {
+          "activity_ids": [
+            "17475727870"
+          ],
+          "count": 1,
+          "distance": 34488.5,
+          "elevation_gain": 0.0,
+          "moving_time": 3619.0
+        },
+        "2026-02-22": {
+          "activity_ids": [
+            "17479825522"
+          ],
+          "count": 1,
+          "distance": 10662.9,
+          "elevation_gain": 4.6,
+          "moving_time": 1205.0
         }
       },
       "Walk": {
@@ -3707,7 +3743,7 @@
       }
     }
   },
-  "generated_at": "2026-02-21T15:16:30.609173+00:00",
+  "generated_at": "2026-02-22T15:16:51.982488+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",

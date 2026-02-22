@@ -2910,5 +2910,31 @@
     "start_date_local": "2026-02-20T16:14:06Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-02-21",
+    "distance": 34488.5,
+    "elevation_gain": 0.0,
+    "id": "17475727870",
+    "moving_time": 3619.0,
+    "name": "MyWhoosh - Bruges",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-21T18:52:36Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-22",
+    "distance": 10662.9,
+    "elevation_gain": 4.6,
+    "id": "17479825522",
+    "moving_time": 1205.0,
+    "name": "MyWhoosh - Hudayriyat Outer Loop",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-22T09:19:00Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
