@@ -2033,6 +2033,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17479825522",
       "year": 2026
+    },
+    {
+      "date": "2026-02-23",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17491232854",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-23",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17492803125",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3571,6 +3589,16 @@
           "distance": 20530.2,
           "elevation_gain": 71.0,
           "moving_time": 3012.0
+        },
+        "2026-02-23": {
+          "activity_ids": [
+            "17491232854",
+            "17492803125"
+          ],
+          "count": 2,
+          "distance": 15016.3,
+          "elevation_gain": 35.2,
+          "moving_time": 2234.0
         }
       },
       "VirtualRide": {
@@ -3743,7 +3771,7 @@
       }
     }
   },
-  "generated_at": "2026-02-22T15:16:51.982488+00:00",
+  "generated_at": "2026-02-23T15:38:57.162720+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",
