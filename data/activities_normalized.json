@@ -2962,5 +2962,57 @@
     "start_date_local": "2026-02-23T12:05:50Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-02-23",
+    "distance": 68408.6,
+    "elevation_gain": 28.4,
+    "id": "17496935522",
+    "moving_time": 7208.0,
+    "name": "MyWhoosh - Hudayriyat Outer Loop",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-23T17:20:04Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-24",
+    "distance": 7478.0,
+    "elevation_gain": 11.4,
+    "id": "17502438460",
+    "moving_time": 1166.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-02-24T08:28:24Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-24",
+    "distance": 4838.8,
+    "elevation_gain": 13.9,
+    "id": "17504104847",
+    "moving_time": 682.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-02-24T12:05:07Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-24",
+    "distance": 101288.0,
+    "elevation_gain": 226.8,
+    "id": "17506424982",
+    "moving_time": 11240.0,
+    "name": "MyWhoosh - Valley of Tombs",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-24T12:52:55Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

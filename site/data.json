@@ -2051,6 +2051,42 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17492803125",
       "year": 2026
+    },
+    {
+      "date": "2026-02-23",
+      "hour": 17,
+      "name": "MyWhoosh - Hudayriyat Outer Loop",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17496935522",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-24",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17502438460",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-24",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17504104847",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-24",
+      "hour": 12,
+      "name": "MyWhoosh - Valley of Tombs",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17506424982",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3599,6 +3635,16 @@
           "distance": 15016.3,
           "elevation_gain": 35.2,
           "moving_time": 2234.0
+        },
+        "2026-02-24": {
+          "activity_ids": [
+            "17502438460",
+            "17504104847"
+          ],
+          "count": 2,
+          "distance": 12316.8,
+          "elevation_gain": 25.3,
+          "moving_time": 1848.0
         }
       },
       "VirtualRide": {
@@ -3756,6 +3802,24 @@
           "distance": 10662.9,
           "elevation_gain": 4.6,
           "moving_time": 1205.0
+        },
+        "2026-02-23": {
+          "activity_ids": [
+            "17496935522"
+          ],
+          "count": 1,
+          "distance": 68408.6,
+          "elevation_gain": 28.4,
+          "moving_time": 7208.0
+        },
+        "2026-02-24": {
+          "activity_ids": [
+            "17506424982"
+          ],
+          "count": 1,
+          "distance": 101288.0,
+          "elevation_gain": 226.8,
+          "moving_time": 11240.0
         }
       },
       "Walk": {
@@ -3771,7 +3835,7 @@
       }
     }
   },
-  "generated_at": "2026-02-23T15:38:57.162720+00:00",
+  "generated_at": "2026-02-24T15:47:15.729474+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",
