@@ -2123,6 +2123,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17539888463",
       "year": 2026
+    },
+    {
+      "date": "2026-02-27",
+      "hour": 17,
+      "name": "MyWhoosh - Hudayriyat Outer Loop",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17544118630",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3884,6 +3893,15 @@
           "distance": 101040.0,
           "elevation_gain": 0.0,
           "moving_time": 11626.0
+        },
+        "2026-02-27": {
+          "activity_ids": [
+            "17544118630"
+          ],
+          "count": 1,
+          "distance": 61136.0,
+          "elevation_gain": 23.8,
+          "moving_time": 6165.0
         }
       },
       "Walk": {
@@ -3899,7 +3917,7 @@
       }
     }
   },
-  "generated_at": "2026-02-27T15:31:27.760232+00:00",
+  "generated_at": "2026-02-28T15:13:56.947268+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",

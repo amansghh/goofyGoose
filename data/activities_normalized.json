@@ -3066,5 +3066,18 @@
     "start_date_local": "2026-02-27T12:06:23Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-02-27",
+    "distance": 61136.0,
+    "elevation_gain": 23.8,
+    "id": "17544118630",
+    "moving_time": 6165.0,
+    "name": "MyWhoosh - Hudayriyat Outer Loop",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-27T17:32:12Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
