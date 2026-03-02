@@ -2150,6 +2150,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17558291228",
       "year": 2026
+    },
+    {
+      "date": "2026-03-01",
+      "hour": 20,
+      "name": "MyWhoosh - Brussels Town Square",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17569446199",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3930,6 +3939,15 @@
           "distance": 172096.7,
           "elevation_gain": 0.0,
           "moving_time": 18441.0
+        },
+        "2026-03-01": {
+          "activity_ids": [
+            "17569446199"
+          ],
+          "count": 1,
+          "distance": 2171.1,
+          "elevation_gain": 0.0,
+          "moving_time": 265.0
         }
       },
       "Walk": {
@@ -3945,7 +3963,7 @@
       }
     }
   },
-  "generated_at": "2026-03-01T15:15:20.416650+00:00",
+  "generated_at": "2026-03-02T15:33:59.626878+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",

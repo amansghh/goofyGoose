@@ -3105,5 +3105,18 @@
     "start_date_local": "2026-02-28T21:41:28Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-01",
+    "distance": 2171.1,
+    "elevation_gain": 0.0,
+    "id": "17569446199",
+    "moving_time": 265.0,
+    "name": "MyWhoosh - Brussels Town Square",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-01T20:49:13Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
