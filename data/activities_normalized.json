@@ -3222,5 +3222,31 @@
     "start_date_local": "2026-03-06T12:04:35Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-07",
+    "distance": 6360.2,
+    "elevation_gain": 98.4,
+    "id": "17637760072",
+    "moving_time": 851.0,
+    "name": "MyWhoosh - Kluisbergen",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-07T16:29:56Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-08",
+    "distance": 19021.9,
+    "elevation_gain": 54.3,
+    "id": "17648510859",
+    "moving_time": 3434.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-08T13:24:49Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
