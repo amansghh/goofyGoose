@@ -3248,5 +3248,31 @@
     "start_date_local": "2026-03-08T13:24:49Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-09",
+    "distance": 7835.6,
+    "elevation_gain": 11.4,
+    "id": "17656744467",
+    "moving_time": 1150.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-09T08:28:20Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-09",
+    "distance": 5091.2,
+    "elevation_gain": 13.9,
+    "id": "17658327780",
+    "moving_time": 822.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-09T12:06:18Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
