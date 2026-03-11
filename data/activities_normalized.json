@@ -3313,5 +3313,18 @@
     "start_date_local": "2026-03-10T12:06:10Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-10",
+    "distance": 23055.8,
+    "elevation_gain": 426.8,
+    "id": "17677784507",
+    "moving_time": 3673.0,
+    "name": "MyWhoosh - Montreal",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-10T21:06:57Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
