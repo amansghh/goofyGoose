@@ -3326,5 +3326,57 @@
     "start_date_local": "2026-03-10T21:06:57Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-11",
+    "distance": 10466.1,
+    "elevation_gain": 73.8,
+    "id": "17689243280",
+    "moving_time": 1281.0,
+    "name": "Legs hurt \ud83d\ude2c",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-11T20:26:26Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-11",
+    "distance": 2209.3,
+    "elevation_gain": 19.6,
+    "id": "17689457724",
+    "moving_time": 224.0,
+    "name": "MyWhoosh - Ride",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-11T21:02:47Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 5600.7,
+    "elevation_gain": 17.6,
+    "id": "17693670660",
+    "moving_time": 909.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-12T08:19:08Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 5224.1,
+    "elevation_gain": 14.4,
+    "id": "17695399072",
+    "moving_time": 744.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-12T12:03:36Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

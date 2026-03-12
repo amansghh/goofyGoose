@@ -2303,6 +2303,42 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17677784507",
       "year": 2026
+    },
+    {
+      "date": "2026-03-11",
+      "hour": 20,
+      "name": "Legs hurt \ud83d\ude2c",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17689243280",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-11",
+      "hour": 21,
+      "name": "MyWhoosh - Ride",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17689457724",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-12",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17693670660",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-12",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17695399072",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3941,6 +3977,16 @@
           "distance": 10238.599999999999,
           "elevation_gain": 31.3,
           "moving_time": 1711.0
+        },
+        "2026-03-12": {
+          "activity_ids": [
+            "17693670660",
+            "17695399072"
+          ],
+          "count": 2,
+          "distance": 10824.8,
+          "elevation_gain": 32.0,
+          "moving_time": 1653.0
         }
       },
       "VirtualRide": {
@@ -4180,6 +4226,16 @@
           "distance": 23055.8,
           "elevation_gain": 426.8,
           "moving_time": 3673.0
+        },
+        "2026-03-11": {
+          "activity_ids": [
+            "17689243280",
+            "17689457724"
+          ],
+          "count": 2,
+          "distance": 12675.400000000001,
+          "elevation_gain": 93.4,
+          "moving_time": 1505.0
         }
       },
       "Walk": {
@@ -4195,7 +4251,7 @@
       }
     }
   },
-  "generated_at": "2026-03-11T15:39:26.951069+00:00",
+  "generated_at": "2026-03-12T15:49:58.185324+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",
