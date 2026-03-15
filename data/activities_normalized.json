@@ -3378,5 +3378,31 @@
     "start_date_local": "2026-03-12T12:03:36Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-14",
+    "distance": 63867.7,
+    "elevation_gain": 1179.4,
+    "id": "17722769960",
+    "moving_time": 9838.0,
+    "name": "Z2 I promise \ud83e\udd23",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-14T16:31:46Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 47318.3,
+    "elevation_gain": 176.1,
+    "id": "17732279067",
+    "moving_time": 13075.0,
+    "name": "Family Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-15T10:23:41Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

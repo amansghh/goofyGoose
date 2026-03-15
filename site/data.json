@@ -2339,6 +2339,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17695399072",
       "year": 2026
+    },
+    {
+      "date": "2026-03-14",
+      "hour": 16,
+      "name": "Z2 I promise \ud83e\udd23",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17722769960",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-15",
+      "hour": 10,
+      "name": "Family Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17732279067",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3987,6 +4005,15 @@
           "distance": 10824.8,
           "elevation_gain": 32.0,
           "moving_time": 1653.0
+        },
+        "2026-03-15": {
+          "activity_ids": [
+            "17732279067"
+          ],
+          "count": 1,
+          "distance": 47318.3,
+          "elevation_gain": 176.1,
+          "moving_time": 13075.0
         }
       },
       "VirtualRide": {
@@ -4236,6 +4263,15 @@
           "distance": 12675.400000000001,
           "elevation_gain": 93.4,
           "moving_time": 1505.0
+        },
+        "2026-03-14": {
+          "activity_ids": [
+            "17722769960"
+          ],
+          "count": 1,
+          "distance": 63867.7,
+          "elevation_gain": 1179.4,
+          "moving_time": 9838.0
         }
       },
       "Walk": {
@@ -4251,7 +4287,7 @@
       }
     }
   },
-  "generated_at": "2026-03-14T15:20:02.461678+00:00",
+  "generated_at": "2026-03-15T15:20:53.390068+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",
