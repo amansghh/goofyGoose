@@ -3430,5 +3430,44 @@
     "start_date_local": "2026-03-16T12:06:57Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 5343.8,
+    "elevation_gain": 16.5,
+    "id": "17750626395",
+    "moving_time": 891.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-17T08:30:38Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 5306.3,
+    "elevation_gain": 14.5,
+    "id": "17752451826",
+    "moving_time": 755.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-17T12:04:30Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 42744.6,
+    "elevation_gain": 1090.0,
+    "id": "17755071175",
+    "moving_time": 7213.0,
+    "name": "MyWhoosh - El Limonar",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-17T14:17:07Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

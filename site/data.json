@@ -2375,6 +2375,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17740762914",
       "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17750626395",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17752451826",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 14,
+      "name": "MyWhoosh - El Limonar",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17755071175",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4042,6 +4069,16 @@
           "distance": 10724.6,
           "elevation_gain": 30.799999999999997,
           "moving_time": 1678.0
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            "17750626395",
+            "17752451826"
+          ],
+          "count": 2,
+          "distance": 10650.1,
+          "elevation_gain": 31.0,
+          "moving_time": 1646.0
         }
       },
       "VirtualRide": {
@@ -4300,6 +4337,15 @@
           "distance": 63867.7,
           "elevation_gain": 1179.4,
           "moving_time": 9838.0
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            "17755071175"
+          ],
+          "count": 1,
+          "distance": 42744.6,
+          "elevation_gain": 1090.0,
+          "moving_time": 7213.0
         }
       },
       "Walk": {
@@ -4315,7 +4361,7 @@
       }
     }
   },
-  "generated_at": "2026-03-16T15:57:08.013552+00:00",
+  "generated_at": "2026-03-17T15:56:08.261329+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",
