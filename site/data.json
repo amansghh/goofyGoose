@@ -2402,6 +2402,33 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17755071175",
       "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 15,
+      "name": "MyWhoosh - Zurich",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17768460665",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17775725647",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17777475918",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4079,6 +4106,16 @@
           "distance": 10650.1,
           "elevation_gain": 31.0,
           "moving_time": 1646.0
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "17775725647",
+            "17777475918"
+          ],
+          "count": 2,
+          "distance": 10228.4,
+          "elevation_gain": 30.5,
+          "moving_time": 1579.0
         }
       },
       "VirtualRide": {
@@ -4346,6 +4383,15 @@
           "distance": 42744.6,
           "elevation_gain": 1090.0,
           "moving_time": 7213.0
+        },
+        "2026-03-18": {
+          "activity_ids": [
+            "17768460665"
+          ],
+          "count": 1,
+          "distance": 48549.0,
+          "elevation_gain": 900.2,
+          "moving_time": 7397.0
         }
       },
       "Walk": {
@@ -4361,7 +4407,7 @@
       }
     }
   },
-  "generated_at": "2026-03-18T16:01:48.684485+00:00",
+  "generated_at": "2026-03-19T15:44:09.417219+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",

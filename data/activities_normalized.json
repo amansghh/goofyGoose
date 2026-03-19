@@ -3469,5 +3469,44 @@
     "start_date_local": "2026-03-17T14:17:07Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-18",
+    "distance": 48549.0,
+    "elevation_gain": 900.2,
+    "id": "17768460665",
+    "moving_time": 7397.0,
+    "name": "MyWhoosh - Zurich",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-18T15:28:06Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 5210.2,
+    "elevation_gain": 16.4,
+    "id": "17775725647",
+    "moving_time": 761.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-19T08:30:38Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 5018.2,
+    "elevation_gain": 14.1,
+    "id": "17777475918",
+    "moving_time": 818.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-19T12:02:55Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
