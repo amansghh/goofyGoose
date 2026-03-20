@@ -3508,5 +3508,44 @@
     "start_date_local": "2026-03-19T12:02:55Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-19",
+    "distance": 16842.4,
+    "elevation_gain": 959.8,
+    "id": "17782962317",
+    "moving_time": 3909.0,
+    "name": "MyWhoosh - Mount Fuji",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-19T19:02:01Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 5210.5,
+    "elevation_gain": 16.7,
+    "id": "17788014971",
+    "moving_time": 720.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-20T08:46:28Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 5494.6,
+    "elevation_gain": 14.0,
+    "id": "17789615738",
+    "moving_time": 838.0,
+    "name": "Lunch Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-03-20T12:04:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

@@ -2429,6 +2429,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17777475918",
       "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 19,
+      "name": "MyWhoosh - Mount Fuji",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17782962317",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-20",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17788014971",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-20",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17789615738",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4116,6 +4143,16 @@
           "distance": 10228.4,
           "elevation_gain": 30.5,
           "moving_time": 1579.0
+        },
+        "2026-03-20": {
+          "activity_ids": [
+            "17788014971",
+            "17789615738"
+          ],
+          "count": 2,
+          "distance": 10705.1,
+          "elevation_gain": 30.7,
+          "moving_time": 1558.0
         }
       },
       "VirtualRide": {
@@ -4392,6 +4429,15 @@
           "distance": 48549.0,
           "elevation_gain": 900.2,
           "moving_time": 7397.0
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "17782962317"
+          ],
+          "count": 1,
+          "distance": 16842.4,
+          "elevation_gain": 959.8,
+          "moving_time": 3909.0
         }
       },
       "Walk": {
@@ -4407,7 +4453,7 @@
       }
     }
   },
-  "generated_at": "2026-03-19T15:44:09.417219+00:00",
+  "generated_at": "2026-03-20T15:35:06.458757+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",
