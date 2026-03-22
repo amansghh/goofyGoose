@@ -2483,6 +2483,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17793809227",
       "year": 2026
+    },
+    {
+      "date": "2026-03-22",
+      "hour": 11,
+      "name": "Gym",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/17813195765",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-22",
+      "hour": 14,
+      "name": "MyWhoosh - Wollongong City",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17816767547",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4468,6 +4486,15 @@
           "distance": 16842.4,
           "elevation_gain": 959.8,
           "moving_time": 3909.0
+        },
+        "2026-03-22": {
+          "activity_ids": [
+            "17816767547"
+          ],
+          "count": 1,
+          "distance": 31022.2,
+          "elevation_gain": 443.4,
+          "moving_time": 3949.0
         }
       },
       "Walk": {
@@ -4480,10 +4507,21 @@
           "elevation_gain": 0.0,
           "moving_time": 1976.0
         }
+      },
+      "Workout": {
+        "2026-03-22": {
+          "activity_ids": [
+            "17813195765"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2272.0
+        }
       }
     }
   },
-  "generated_at": "2026-03-21T15:17:54.711978+00:00",
+  "generated_at": "2026-03-22T15:18:20.651637+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",
@@ -4513,6 +4551,10 @@
     "Walk": {
       "accent": "#d6ff6b",
       "label": "Walk"
+    },
+    "Workout": {
+      "accent": "#ff8a5b",
+      "label": "Other Workout"
     }
   },
   "types": [
@@ -4521,7 +4563,8 @@
     "Ride",
     "Run",
     "VirtualRide",
-    "Walk"
+    "Walk",
+    "Workout"
   ],
   "units": {
     "distance": "km",

@@ -3586,5 +3586,31 @@
     "start_date_local": "2026-03-20T18:32:19Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17813195765",
+    "moving_time": 2272.0,
+    "name": "Gym",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-22T11:04:34Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-22",
+    "distance": 31022.2,
+    "elevation_gain": 443.4,
+    "id": "17816767547",
+    "moving_time": 3949.0,
+    "name": "MyWhoosh - Wollongong City",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-22T14:05:23Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
