@@ -3755,5 +3755,18 @@
     "start_date_local": "2026-04-02T15:57:53Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 18961.5,
+    "elevation_gain": 62.6,
+    "id": "18042281598",
+    "moving_time": 3117.0,
+    "name": "Nice",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-09T16:43:46Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
