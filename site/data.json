@@ -2618,6 +2618,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18056335063",
       "year": 2026
+    },
+    {
+      "date": "2026-04-14",
+      "hour": 15,
+      "name": "Knee kapot",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18106499385",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4387,6 +4396,15 @@
           "distance": 18956.3,
           "elevation_gain": 62.0,
           "moving_time": 2574.0
+        },
+        "2026-04-14": {
+          "activity_ids": [
+            "18106499385"
+          ],
+          "count": 1,
+          "distance": 47697.1,
+          "elevation_gain": 42.4,
+          "moving_time": 7647.0
         }
       },
       "VirtualRide": {
@@ -4707,7 +4725,7 @@
       }
     }
   },
-  "generated_at": "2026-04-14T16:02:57.921437+00:00",
+  "generated_at": "2026-04-15T15:59:38.245002+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",

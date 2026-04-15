@@ -3781,5 +3781,18 @@
     "start_date_local": "2026-04-10T18:46:43Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 47697.1,
+    "elevation_gain": 42.4,
+    "id": "18106499385",
+    "moving_time": 7647.0,
+    "name": "Knee kapot",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-14T15:53:52Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
