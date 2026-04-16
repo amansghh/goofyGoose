@@ -3794,5 +3794,18 @@
     "start_date_local": "2026-04-14T15:53:52Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 27819.0,
+    "elevation_gain": 34.5,
+    "id": "18121752278",
+    "moving_time": 4376.0,
+    "name": "Foot kapot",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-15T18:29:39Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
