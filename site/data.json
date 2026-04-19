@@ -2636,6 +2636,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18121752278",
       "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 17,
+      "name": "Z2",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18161670972",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4423,6 +4432,15 @@
           "distance": 27819.0,
           "elevation_gain": 34.5,
           "moving_time": 4376.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "18161670972"
+          ],
+          "count": 1,
+          "distance": 50152.6,
+          "elevation_gain": 43.6,
+          "moving_time": 7720.0
         }
       },
       "VirtualRide": {
@@ -4743,7 +4761,7 @@
       }
     }
   },
-  "generated_at": "2026-04-18T15:30:25.424374+00:00",
+  "generated_at": "2026-04-19T15:30:20.126685+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",
