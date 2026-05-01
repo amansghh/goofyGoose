@@ -2672,6 +2672,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18293032450",
       "year": 2026
+    },
+    {
+      "date": "2026-05-01",
+      "hour": 14,
+      "name": "Day in France",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18333505762",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4487,6 +4496,15 @@
           "distance": 48697.9,
           "elevation_gain": 46.599999999999994,
           "moving_time": 7040.0
+        },
+        "2026-05-01": {
+          "activity_ids": [
+            "18333505762"
+          ],
+          "count": 1,
+          "distance": 18738.2,
+          "elevation_gain": 424.5,
+          "moving_time": 4458.0
         }
       },
       "VirtualRide": {
@@ -4807,7 +4825,7 @@
       }
     }
   },
-  "generated_at": "2026-04-30T16:13:37.069733+00:00",
+  "generated_at": "2026-05-01T15:46:39.130291+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",

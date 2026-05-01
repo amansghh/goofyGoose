@@ -3859,5 +3859,18 @@
     "start_date_local": "2026-04-28T15:15:23Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 18738.2,
+    "elevation_gain": 424.5,
+    "id": "18333505762",
+    "moving_time": 4458.0,
+    "name": "Day in France",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-01T14:29:07Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
