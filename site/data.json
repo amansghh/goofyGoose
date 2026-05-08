@@ -2708,6 +2708,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18399856185",
       "year": 2026
+    },
+    {
+      "date": "2026-05-08",
+      "hour": 14,
+      "name": "Perfect Z2 Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18426675392",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-08",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18427212622",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4551,6 +4569,26 @@
           "distance": 16975.9,
           "elevation_gain": 40.1,
           "moving_time": 2534.0
+        },
+        "2026-05-08": {
+          "activity_ids": [
+            "18426675392"
+          ],
+          "count": 1,
+          "distance": 62178.7,
+          "elevation_gain": 80.8,
+          "moving_time": 8855.0
+        }
+      },
+      "Run": {
+        "2026-05-08": {
+          "activity_ids": [
+            "18427212622"
+          ],
+          "count": 1,
+          "distance": 35.0,
+          "elevation_gain": 0.0,
+          "moving_time": 13.0
         }
       },
       "VirtualRide": {
@@ -4871,7 +4909,7 @@
       }
     }
   },
-  "generated_at": "2026-05-07T16:43:58.045349+00:00",
+  "generated_at": "2026-05-08T16:09:35.999005+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",
