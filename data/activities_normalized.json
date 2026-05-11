@@ -3937,5 +3937,18 @@
     "start_date_local": "2026-05-08T18:04:58Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 55710.8,
+    "elevation_gain": 36.3,
+    "id": "18455055964",
+    "moving_time": 8588.0,
+    "name": "Z2 Yes but damm you wind",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-10T16:06:47Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
