@@ -3950,5 +3950,18 @@
     "start_date_local": "2026-05-10T16:06:47Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 21189.3,
+    "elevation_gain": 0.0,
+    "id": "18488102042",
+    "moving_time": 2468.0,
+    "name": "Spotted: A rare sighting of me in Zone 2. Scientists are baffled.",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-13T10:52:55Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

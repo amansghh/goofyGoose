@@ -2735,6 +2735,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18455055964",
       "year": 2026
+    },
+    {
+      "date": "2026-05-13",
+      "hour": 10,
+      "name": "Spotted: A rare sighting of me in Zone 2. Scientists are baffled.",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18488102042",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4901,6 +4910,15 @@
           "distance": 31022.2,
           "elevation_gain": 443.4,
           "moving_time": 3949.0
+        },
+        "2026-05-13": {
+          "activity_ids": [
+            "18488102042"
+          ],
+          "count": 1,
+          "distance": 21189.3,
+          "elevation_gain": 0.0,
+          "moving_time": 2468.0
         }
       },
       "Walk": {
@@ -4927,7 +4945,7 @@
       }
     }
   },
-  "generated_at": "2026-05-12T17:03:10.676136+00:00",
+  "generated_at": "2026-05-13T17:08:53.525714+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",
