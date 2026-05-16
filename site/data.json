@@ -2762,6 +2762,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18508042410",
       "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 11,
+      "name": "Why am I doing this???",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18526660147",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4634,6 +4643,15 @@
           "distance": 35.0,
           "elevation_gain": 0.0,
           "moving_time": 13.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "18526660147"
+          ],
+          "count": 1,
+          "distance": 3525.8,
+          "elevation_gain": 2.1,
+          "moving_time": 1550.0
         }
       },
       "VirtualRide": {
@@ -4981,7 +4999,7 @@
       }
     }
   },
-  "generated_at": "2026-05-15T16:47:21.766555+00:00",
+  "generated_at": "2026-05-16T15:49:39.920002+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",

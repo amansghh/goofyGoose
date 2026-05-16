@@ -3989,5 +3989,18 @@
     "start_date_local": "2026-05-14T19:49:44Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 3525.8,
+    "elevation_gain": 2.1,
+    "id": "18526660147",
+    "moving_time": 1550.0,
+    "name": "Why am I doing this???",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-16T11:29:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
