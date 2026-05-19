@@ -4002,5 +4002,31 @@
     "start_date_local": "2026-05-16T11:29:58Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 6420.9,
+    "elevation_gain": 16.1,
+    "id": "18565555517",
+    "moving_time": 896.0,
+    "name": "Last Dance \ud83d\ude22",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-19T11:56:14Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18567380172",
+    "moving_time": 3909.0,
+    "name": "Day 1",
+    "raw_activity_type": "Elliptical",
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-05-19T13:27:09Z",
+    "type": "Elliptical",
+    "year": 2026
   }
 ]
