@@ -2789,6 +2789,15 @@
       "type": "Elliptical",
       "url": "https://www.strava.com/activities/18567380172",
       "year": 2026
+    },
+    {
+      "date": "2026-05-28",
+      "hour": 14,
+      "name": "Locked In Unc",
+      "subtype": "Elliptical",
+      "type": "Elliptical",
+      "url": "https://www.strava.com/activities/18689761839",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4214,6 +4223,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3909.0
+        },
+        "2026-05-28": {
+          "activity_ids": [
+            "18689761839"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 7268.0
         }
       },
       "Ride": {
@@ -5037,7 +5055,7 @@
       }
     }
   },
-  "generated_at": "2026-05-27T17:51:53.977049+00:00",
+  "generated_at": "2026-05-28T17:56:48.812133+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",
