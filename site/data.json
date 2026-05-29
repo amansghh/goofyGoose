@@ -2798,6 +2798,15 @@
       "type": "Elliptical",
       "url": "https://www.strava.com/activities/18689761839",
       "year": 2026
+    },
+    {
+      "date": "2026-05-29",
+      "hour": 7,
+      "name": "Morning gym session",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18698216747",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5042,6 +5051,17 @@
           "moving_time": 4440.0
         }
       },
+      "WeightTraining": {
+        "2026-05-29": {
+          "activity_ids": [
+            "18698216747"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3166.0
+        }
+      },
       "Workout": {
         "2026-03-22": {
           "activity_ids": [
@@ -5055,7 +5075,7 @@
       }
     }
   },
-  "generated_at": "2026-05-28T17:56:48.812133+00:00",
+  "generated_at": "2026-05-29T18:00:15.298015+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",
@@ -5086,6 +5106,10 @@
       "accent": "#d6ff6b",
       "label": "Walk"
     },
+    "WeightTraining": {
+      "accent": "#ff71ce",
+      "label": "Weight Training"
+    },
     "Workout": {
       "accent": "#ff8a5b",
       "label": "Other Workout"
@@ -5098,6 +5122,7 @@
     "Run",
     "VirtualRide",
     "Walk",
+    "WeightTraining",
     "Workout"
   ],
   "units": {
