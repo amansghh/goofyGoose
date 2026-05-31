@@ -4067,5 +4067,18 @@
     "start_date_local": "2026-05-30T08:08:02Z",
     "type": "Elliptical",
     "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18724537451",
+    "moving_time": 7812.0,
+    "name": "Still Locked IN",
+    "raw_activity_type": "Elliptical",
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-05-31T07:56:43Z",
+    "type": "Elliptical",
+    "year": 2026
   }
 ]

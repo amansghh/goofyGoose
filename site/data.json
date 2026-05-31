@@ -2816,6 +2816,15 @@
       "type": "Elliptical",
       "url": "https://www.strava.com/activities/18711047513",
       "year": 2026
+    },
+    {
+      "date": "2026-05-31",
+      "hour": 7,
+      "name": "Still Locked IN",
+      "subtype": "Elliptical",
+      "type": "Elliptical",
+      "url": "https://www.strava.com/activities/18724537451",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4259,6 +4268,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5752.0
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "18724537451"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 7812.0
         }
       },
       "Ride": {
@@ -5093,7 +5111,7 @@
       }
     }
   },
-  "generated_at": "2026-05-30T15:58:55.558865+00:00",
+  "generated_at": "2026-05-31T16:00:08.624842+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",
