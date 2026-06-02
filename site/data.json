@@ -2825,6 +2825,15 @@
       "type": "Elliptical",
       "url": "https://www.strava.com/activities/18724537451",
       "year": 2026
+    },
+    {
+      "date": "2026-06-02",
+      "hour": 19,
+      "name": "Week 2 and still locked in",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18759521619",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5096,6 +5105,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3166.0
+        },
+        "2026-06-02": {
+          "activity_ids": [
+            "18759521619"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2452.0
         }
       },
       "Workout": {
@@ -5111,7 +5129,7 @@
       }
     }
   },
-  "generated_at": "2026-06-01T19:52:16.491734+00:00",
+  "generated_at": "2026-06-02T18:32:18.052222+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",
