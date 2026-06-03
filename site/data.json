@@ -2834,6 +2834,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18759521619",
       "year": 2026
+    },
+    {
+      "date": "2026-06-02",
+      "hour": 20,
+      "name": "Level told me elliptical is good",
+      "subtype": "Elliptical",
+      "type": "Elliptical",
+      "url": "https://www.strava.com/activities/18760453926",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-03",
+      "hour": 10,
+      "name": "Sore but LOCKED IN",
+      "subtype": "Elliptical",
+      "type": "Elliptical",
+      "url": "https://www.strava.com/activities/18767459861",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4286,6 +4304,24 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 7812.0
+        },
+        "2026-06-02": {
+          "activity_ids": [
+            "18760453926"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3629.0
+        },
+        "2026-06-03": {
+          "activity_ids": [
+            "18767459861"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 7313.0
         }
       },
       "Ride": {
@@ -5129,7 +5165,7 @@
       }
     }
   },
-  "generated_at": "2026-06-02T18:32:18.052222+00:00",
+  "generated_at": "2026-06-03T18:40:04.483948+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",

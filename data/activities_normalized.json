@@ -4093,5 +4093,31 @@
     "start_date_local": "2026-06-02T19:32:29Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18760453926",
+    "moving_time": 3629.0,
+    "name": "Level told me elliptical is good",
+    "raw_activity_type": "Elliptical",
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-06-02T20:14:03Z",
+    "type": "Elliptical",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18767459861",
+    "moving_time": 7313.0,
+    "name": "Sore but LOCKED IN",
+    "raw_activity_type": "Elliptical",
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-06-03T10:01:13Z",
+    "type": "Elliptical",
+    "year": 2026
   }
 ]
