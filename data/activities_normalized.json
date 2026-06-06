@@ -4132,5 +4132,18 @@
     "start_date_local": "2026-06-05T06:56:33Z",
     "type": "Elliptical",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 10104.4,
+    "elevation_gain": 9.0,
+    "id": "18807840334",
+    "moving_time": 4042.0,
+    "name": "Why are you running ...",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-06T11:31:57Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
