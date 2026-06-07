@@ -4145,5 +4145,18 @@
     "start_date_local": "2026-06-06T11:31:57Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18824535288",
+    "moving_time": 3840.0,
+    "name": "Upper Body",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-07T14:40:17Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
