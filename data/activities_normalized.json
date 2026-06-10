@@ -4158,5 +4158,31 @@
     "start_date_local": "2026-06-07T14:40:17Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18855436234",
+    "moving_time": 6371.0,
+    "name": "Locked IN",
+    "raw_activity_type": "Elliptical",
+    "raw_type": "Elliptical",
+    "start_date_local": "2026-06-09T19:36:35Z",
+    "type": "Elliptical",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18867522473",
+    "moving_time": 3864.0,
+    "name": "Strength Workout \ud83d\udcaa",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-10T18:06:04Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
