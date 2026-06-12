@@ -2897,6 +2897,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18867522473",
       "year": 2026
+    },
+    {
+      "date": "2026-06-12",
+      "hour": 15,
+      "name": "Evening Strength Workout",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18891195594",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-12",
+      "hour": 16,
+      "name": "We locked in \ud83d\ude0e\ud83d\ude0e\ud83d\ude0e",
+      "subtype": "Elliptical",
+      "type": "Elliptical",
+      "url": "https://www.strava.com/activities/18891884038",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4385,6 +4403,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 6371.0
+        },
+        "2026-06-12": {
+          "activity_ids": [
+            "18891884038"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3768.0
         }
       },
       "Ride": {
@@ -5240,6 +5267,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3864.0
+        },
+        "2026-06-12": {
+          "activity_ids": [
+            "18891195594"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3244.0
         }
       },
       "Workout": {
@@ -5255,7 +5291,7 @@
       }
     }
   },
-  "generated_at": "2026-06-11T18:05:52.599449+00:00",
+  "generated_at": "2026-06-12T17:31:47.538057+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",
