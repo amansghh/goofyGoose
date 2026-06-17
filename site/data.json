@@ -2942,6 +2942,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18930943137",
       "year": 2026
+    },
+    {
+      "date": "2026-06-17",
+      "hour": 6,
+      "name": "\ud83d\udd12 IN",
+      "subtype": "Elliptical",
+      "type": "Elliptical",
+      "url": "https://www.strava.com/activities/18953553542",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4457,6 +4466,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 7303.0
+        },
+        "2026-06-17": {
+          "activity_ids": [
+            "18953553542"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4838.0
         }
       },
       "Ride": {
@@ -5345,7 +5363,7 @@
       }
     }
   },
-  "generated_at": "2026-06-15T19:00:22.180090+00:00",
+  "generated_at": "2026-06-17T17:45:13.077992+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",
