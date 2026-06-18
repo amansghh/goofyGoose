@@ -2951,6 +2951,15 @@
       "type": "Elliptical",
       "url": "https://www.strava.com/activities/18953553542",
       "year": 2026
+    },
+    {
+      "date": "2026-06-18",
+      "hour": 11,
+      "name": "Is this my comeback???",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18968873325",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4931,6 +4940,15 @@
           "distance": 6420.9,
           "elevation_gain": 16.1,
           "moving_time": 896.0
+        },
+        "2026-06-18": {
+          "activity_ids": [
+            "18968873325"
+          ],
+          "count": 1,
+          "distance": 6313.5,
+          "elevation_gain": 16.1,
+          "moving_time": 835.0
         }
       },
       "Run": {
@@ -5363,7 +5381,7 @@
       }
     }
   },
-  "generated_at": "2026-06-17T17:45:13.077992+00:00",
+  "generated_at": "2026-06-18T17:55:27.888716+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/84571890",
   "repo": "amansghh/goofyGoose",
