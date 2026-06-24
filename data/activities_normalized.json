@@ -4340,5 +4340,31 @@
     "start_date_local": "2026-06-22T17:37:00Z",
     "type": "Elliptical",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 20834.3,
+    "elevation_gain": 21.8,
+    "id": "19040437663",
+    "moving_time": 4813.0,
+    "name": "Im back",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-23T20:20:26Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19045242760",
+    "moving_time": 3662.0,
+    "name": "Morning gym session",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-24T07:26:52Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
