@@ -4444,5 +4444,18 @@
     "start_date_local": "2026-06-28T09:10:25Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 50334.6,
+    "elevation_gain": 43.0,
+    "id": "19101641104",
+    "moving_time": 8793.0,
+    "name": "Locked in too much \ud83d\ude2b",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-28T17:12:45Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
